@@ -1,7 +1,7 @@
 <h1>
   <b>Hi there 👋 I'm Ranjani K ! </b></h1>
   <img src="https://camo.githubusercontent.com/d15e80f13cf5a87d0b196f4b692721c87520078d81af39fb2d50825c6cca2fed/68747470733a2f2f69322e77702e636f6d2f7777772e62657374776f726c646576656e74732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f48656c6c6f2d4769662e6769663f726573697a653d343938253243343938" width="100px" height="100px">
- <img src="https://image.shutterstock.com/image-vector/programming-software-website-application-development-260nw-1906683778.jpg" width="290px" height="250px" align="right" > <br>
+ <img src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg" width="290px" height="250px" align="right" > <br>
  
 - 🎓 I'm a CSE student from GCT,Coimbatore of batch 2023.
 - 💻 I’m currently learning Front end development at Spotknack Mission 2021.
