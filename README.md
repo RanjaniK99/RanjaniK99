@@ -17,7 +17,7 @@
 <ul>
   <li><a href="https://heuristic-gates-394662.netlify.app">Hotstar AboutPage</a></li>
   <li><a href="https://blissful-austin-4c1e04.netlify.app">Hotstar Subscribe Page </a></li> 
-  <li><a href="https://serene-bhabha-2888f3.netlify.app">Hotstar Home</a> </li> 
+  <li><a href="https://serene-bhabha-2888f3.netlify.app">Hotstar Home</a> </li> </ul>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanjaniK99&show_icons=true&locale=en&layout=compact" alt="RanjaniK99" /></p>
   
 <h3>Connect Through</h3> 
